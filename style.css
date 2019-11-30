@@ -1,3 +1,4 @@
+/*remode*/
 body {
     margin: 0;
     padding: 0;
@@ -24,6 +25,7 @@ h2 {
     width: 100%;
     z-index: 99;
 }
+
 
 .navbar {
     display: grid;
