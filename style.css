@@ -30,7 +30,7 @@ h2 {
 .navbar {
     display: grid;
     grid-template-columns: 10% 80% 10%;
-    margin-left: 10%;
+    margin-left: 9%;
     height: 60px;
 }
 
@@ -444,8 +444,8 @@ h2 {
 
 .img-part i {
     position: relative;
-    top: -225px;
-    left: 145px;
+    top: -235px;
+    left: 160px;
     color: white;
     font-size: 25px;
     visibility: hidden;
